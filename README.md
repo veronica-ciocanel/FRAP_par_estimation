@@ -1,4 +1,4 @@
-# frap_par_estimation
+# FRAP_parameter_estimation
 Sample Matlab code for estimating parameters from FRAP microscopy data
 
 This cose accompanies the article "Ciocanel, Maria-Veronica, et al. "Analysis of active transport by fluorescence recovery after photobleaching." Biophysical journal 112.8 (2017): 1714-1725." This sample code uses an average dataset of fluorescence recovery and assumes models protein dynamics in the bleach spot using a 2-state diffusion-transport partial differential equation model. 
